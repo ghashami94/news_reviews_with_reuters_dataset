@@ -2,11 +2,9 @@
 
 ## About
 
-This code is about classify movie reviews as positive and negative 
-It's in two-class classification
+This code is about classify news reviews in 46 class of subject, so it's a multi classification learning 
 
-Dataset: IMDB dataset
-    - 50.000 highly polarized reviews
-    - 25.000 training reviews and 25.000 testing reviews
-    - each part with 50% nagative and 50% positive reviews
-    
+
+Dataset: reuters dataset
+         - 8982 news in train set and 2246 news in test data
+         - it's an unbalanced news but every class has at least 10 news in dataset
